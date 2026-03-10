@@ -2,24 +2,6 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Imagen</title>
-
-<style>
-body{
-    margin:0;
-    background-color:black;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    height:100vh;
-}
-
-img{
-    max-width:90%;
-    max-height:90%;
-    object-fit:contain;
-}
-</style>
 
 </head>
 
